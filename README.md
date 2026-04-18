@@ -47,4 +47,4 @@ The system follows a modular pipeline architecture designed for high scalability
 - **Zod**: Runtime schema validation.
 
 ---
-*Built with ❤️ to empower hackathon communities and builders.*
+*Built with Antigravity
