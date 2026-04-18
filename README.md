@@ -46,5 +46,3 @@ The system follows a modular pipeline architecture designed for high scalability
 - **Google Gemini**: AI-powered logo vision and categorization.
 - **Zod**: Runtime schema validation.
 
----
-*Built with Antigravity
